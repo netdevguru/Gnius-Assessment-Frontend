@@ -1,0 +1,20 @@
+.download-section{
+    padding:10px;
+}
+.download-xlsx{
+    float:right;
+    background-color: Crimson;  
+    border-radius: 5px;
+    color: white;
+    padding: .5em;
+    text-decoration: none;
+}
+.download-xlsx:hover{
+    background-color: Crimson;  
+    color: #fff;
+}
+
+.codingGrid{
+    font-family: sans-serif;
+    text-align: center;
+}
